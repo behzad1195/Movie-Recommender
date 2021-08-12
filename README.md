@@ -4,7 +4,8 @@
     + 1. Collaborative Filtering With Non-negative Matrix Factorization (NMF)
     + 2. Item-based Collaborative Filtering (find similar movies instead of similar users) using CSR matrix and KNN with 'cosine similarity' as the method
 * Contributors: [Francesco Mari](https://github.com/fra-mari) and [Laura Bertolini](https://github.com/Rellino)
-
+### Movie Recommender Website
+(https://github.com/behzad1195/Movie-Recommender/blob/master/recommender%20website.gif)
 
 ## Repo Structure
 
